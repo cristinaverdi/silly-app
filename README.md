@@ -1,4 +1,4 @@
-Women N Talent Landing Page
+Silly App Landing Page
 ---
 
 #### Run app

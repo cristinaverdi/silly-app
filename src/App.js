@@ -10,11 +10,10 @@ class App extends Component {
       <div className="App">
         <ButtonAppBar/>
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
 
         </header>
           <main>
-              <h1 className="App-title">Creamos un ecosistema que apoya la trayectoria profesional de las mujeres</h1>
+              <h1 className="App-title">This is Spots app, where all great stories begin</h1>
           </main>
       </div>
     );

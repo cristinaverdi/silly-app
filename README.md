@@ -1,4 +1,4 @@
-Silly App Landing Page
+Spots App Landing Page
 ---
 
 #### Get a local copy of repository
@@ -35,4 +35,4 @@ Install with npm:
 npm install
 npm start
 ```
-###### Women N Talent, 2018
+###### Spots App, 2018

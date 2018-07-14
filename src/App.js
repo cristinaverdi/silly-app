@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './horizontal-logo.png';
 import './App.css';
 import ButtonAppBar from './modules/nav-bar/button';
 
